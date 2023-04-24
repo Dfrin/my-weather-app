@@ -1,0 +1,137 @@
+body {
+  background-color: #f1e8e6;
+}
+.container {
+  padding: 40px;
+  max-width: 600px;
+  color: black;
+  margin: 40px auto 30px;
+  background-color: white;
+  border: 2px solid black;
+}
+.describe {
+  display: block;
+  padding: 10px;
+  color: black;
+  margin: 10px 10px;
+}
+.citysearch {
+  display: block;
+  text-align: center;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+.current {
+  background-color: #9896f1;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+}
+.click {
+  font-weight: bold;
+}
+.current:hover {
+  color: yellow;
+  transition: background-color 0.5s;
+}
+.search {
+  margin-top: 20px;
+}
+.cityname {
+  color: #272343;
+  text-align: left;
+  font-size: 20px;
+}
+.degree {
+  color: #272343;
+  text-align: left;
+  font-size: 15px;
+}
+.perception {
+  font-family: "handlee";
+  position: relative;
+  left: 4px;
+  color: #272343;
+  text-align: right;
+  font-size: 15px;
+}
+.feel {
+  font-family: "handlee";
+  position: relative;
+  color: #272343;
+  text-align: right;
+  font-size: 15px;
+  bottom: 5px;
+  left: -20px;
+}
+.wind {
+  font-family: "handlee";
+  position: relative;
+  color: #272343;
+  font-size: 15px;
+  left: 5px;
+  bottom: 10px;
+  text-align: right;
+  margin-bottom: 0;
+}
+.comment {
+  font-family: "handlee";
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  color: #5e63b6;
+  font-size: 24px;
+}
+.day {
+  display: block;
+  text-align: center;
+  padding: 10px 0;
+  color: black;
+  margin: 10px auto;
+  background-color: white;
+}
+.dot1 {
+  margin-top: 10px;
+  height: 50px;
+  width: 50px;
+  background-color: yellow;
+  border-radius: 60%;
+  display: inline-block;
+}
+.dot2 {
+  margin-top: 10px;
+  height: 50px;
+  width: 50px;
+  background-color: #ffd6a4;
+  border-radius: 60%;
+  display: inline-block;
+}
+.dot3 {
+  margin-top: 10px;
+  height: 50px;
+  width: 50px;
+  background-color: #fa9856;
+  border-radius: 60%;
+  display: inline-block;
+}
+.dot4 {
+  margin-top: 10px;
+  height: 50px;
+  width: 50px;
+  background-color: #ececec;
+  border-radius: 60%;
+  display: inline-block;
+}
+.dot5 {
+  margin-top: 10px;
+  height: 50px;
+  width: 50px;
+  background-color: #a7bcb9;
+  border-radius: 60%;
+  display: inline-block;
+}
+.emoji {
+  font-size: 30px;
+}
