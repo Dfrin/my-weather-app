@@ -151,7 +151,7 @@ body {
 }
 .weather-forecast-temp-min {
   opacity: 0.5;
-  color: pink;
+  color: rgb(164, 18, 42);
 }
 
 .weather-forecast-temp {
